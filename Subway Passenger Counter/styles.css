@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    color: #333;
+}
+
+h2 {
+    font-size: 2em;
+    color: #666;
+}
+
+#passenger-count {
+    font-size: 4em;
+    font-weight: bold;
+    color: #00698f;
+}
+
+button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: #00698f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+p{
+    font-size: 1.5em;
+    color: #333;
+    font-weight: bold;
+}
